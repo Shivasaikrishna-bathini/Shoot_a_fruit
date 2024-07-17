@@ -56,8 +56,6 @@ Once the game starts:
 - **Shoot:** Click on the apple to score a point.
 - **Miss:** Missing the apple will end the game.
 
-## Screenshots
-(Include screenshots here)
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
